@@ -7,4 +7,4 @@ url = "https://www.airbnb.com/s/Brooklyn--NY--United-States"
 page = Nokogiri::HTML(open(url))
 
 #Display output onto the screen
-puts page
+puts page.css('div.h5.listing-name')
