@@ -14,3 +14,7 @@ end
 page.css('span.h3.price-amount').each do |line|
 	puts line.text
 end
+
+page.css('div.text-muted.listing-location.text-truncate').each do |line|
+	puts line.text
+end
