@@ -1,109 +1,19 @@
-Listing Name,Price,Details
-"
-                Luxury Apt. in Prime Williamsburg
-              ",131,"
-    Entire home/flat · 3 reviews · Brooklyn
-
-"
-"
-                HUGE room/ Williamsburg Waterfront!
-              ",59,"
-    Private room · 50 reviews · Williamsburg, Brooklyn
-
-"
-"
-                Quaint Studio, Fort Green, Brooklyn
-              ",99,"
-    Entire home/flat · Brooklyn
-
-"
-"
-                Prospect Park. Bikes. Garden.Trendy
-              ",43,"
-    Private room · 5 reviews · Brooklyn
-
-"
-"
-                Private brownstone studio Brooklyn
-              ",92,"
-    Entire home/flat · 29 reviews · Brooklyn
-
-"
-"
-                Cozy charm near Prospect Park
-              ",62,"
-    Entire home/flat · Brooklyn
-
-"
-"
-                Pretty and Private in Clinton Hill
-              ",59,"
-    Private room · Brooklyn
-
-"
-"
-                Fresh, Clean Brooklyn Garden Apt.
-              ",99,"
-    Entire home/flat · 64 reviews · Clinton Hill, Brooklyn
-
-"
-"
-                Convenient, Renovated 2 Bedroom
-              ",115,"
-    Entire home/flat · 35 reviews · Carroll Gardens, Brooklyn
-
-"
-"
-                Sunny Spacious Williamsburg Apt!
-              ",89,"
-    Entire home/flat · 9 reviews · Williamsburg, Brooklyn
-
-"
-"
-                Homey Townhouse + PRIVATE Bathroom
-              ",79,"
-    Private room · 96 reviews · Boerum Hill, Brooklyn
-
-"
-"
-                Huge Loft in Prime Williamsburg!
-              ",72,"
-    Private room · 8 reviews · Brooklyn
-
-"
-"
-                Sunny Bushwick Apartment / Morgan L
-              ",65,"
-    Entire home/flat · 4 reviews · Brooklyn
-
-"
-"
-                Sunny Private Room,Williamsburg Pad
-              ",46,"
-    Private room · 20 reviews · Williamsburg, Brooklyn
-
-"
-"
-                Gorgeous Williamsburg 1 Bedroom Apt
-              ",137,"
-    Entire home/flat · 150 reviews · Williamsburg, Brooklyn
-
-"
-"
-                Sunny Spacious Room in Williamsburg
-              ",39,"
-    Private room · 10 reviews · Brooklyn
-
-"
-"
-                Private Suite in Historic House
-              ",89,"
-    Private room · 27 reviews · Fort Greene, Brooklyn
-
-"
-"
-                Bushwick Rm w/Private Outdoor Space
-              ",45,"
-    Private room · 3 reviews · Brooklyn
-
-"
+Listing Name,Price,Room Type,Reviews,Location
+Private brownstone studio Brooklyn,92,Entire home/flat,29 reviews,Brooklyn
+Sun filled 2BR in BedStuy Townhouse,82,Entire home/flat,27 reviews,"Bedford-Stuyvesant, Brooklyn"
+"Colorful, quiet, & near the subway!",59,Private room,48 reviews,"Boerum Hill, Brooklyn"
+NEW! Airy 2 Bedroom Brownstone,72,Entire home/flat,7 reviews,Brooklyn
+"Quaint Studio, Fort Green, Brooklyn",99,Entire home/flat,Brooklyn,
+Luxury Apt. in Prime Williamsburg,131,Entire home/flat,3 reviews,Brooklyn
+Big BR in W'Burg - pvt terrace/view,65,Private room,23 reviews,"Williamsburg, Brooklyn"
+Prospect Park. Bikes. Garden.Trendy,43,Private room,5 reviews,Brooklyn
+Huge Loft in Prime Williamsburg!,72,Private room,8 reviews,Brooklyn
+"Huge Sunny Private Bedroom, 1st FL",49,Private room,6 reviews,Brooklyn
+Sunny 1BR with Terrace/City Views,111,Entire home/flat,3 reviews,"Williamsburg, Brooklyn"
+Authentic Artist Loft in Brooklyn,197,Entire home/flat,1 review,Brooklyn
+Lovely Spacious Private Room,56,Private room,4 reviews,Brooklyn
+Parlor floor in Brooklyn brownstone,62,Entire home/flat,45 reviews,"Crown Heights, Brooklyn"
+FAB BKLYN ROOM&BATH&OWN ENTRANCE,62,Private room,47 reviews,"Fort Greene, Brooklyn"
+Studio Apt in Park Slope- Brooklyn!,66,Entire home/flat,13 reviews,"Greenwood Heights, Brooklyn"
+Private Bedroom in Luxury Apartment,59,Private room,30 reviews,"Williamsburg, Brooklyn"
+Boerum Hill Brownstone Garden Duplx,214,Entire home/flat,38 reviews,"Boerum Hill, Brooklyn"
