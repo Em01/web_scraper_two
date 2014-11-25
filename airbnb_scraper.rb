@@ -25,6 +25,7 @@ end
 
 #write data to CSV file
 CSV.open("airbnb_listings.csv", "w") do |file|
+	file << ["Listing Name", "Price", "Details"]
 	name.length.times do |i|
 		file << [name[i], price[i], details[i]]
 	end
