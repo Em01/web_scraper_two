@@ -7,6 +7,12 @@ url = "https://www.airbnb.com/s/Brooklyn--NY--United-States"
 #Parse the page with Nokogiri
 page = Nokogiri::HTML(open(url))
 
+page_numbers = []
+page.css("div.pagination ul li a[target]").each do |line|
+	page_numbers << line.text
+end
+#find the div tag in pagination, then find the ul tag nested inside the div and then li tag nested inside the ul tag and an a tag with a target attribute nested inside the li tag.
+
 #Store data in arrays
 name = []
 page.css('div.h5.listing-name').each do |line|
@@ -30,3 +36,7 @@ CSV.open("airbnb_listings.csv", "w") do |file|
 		file << [name[i], price[i], details[i][0], details[i][1], details[i][2]]
 	end
 end
+
+
+
+
