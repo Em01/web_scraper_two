@@ -38,13 +38,13 @@ max_page.to_i.times do |i|
 	end
 
 	page.css('div.text-muted.listing-location.text-truncate').each do |line|
-		subarray = line.text.string.split(/ · /)
+		subarray = line.text.strip.split(/ · /)
 
-		if subarray.length == 3
-			details << subarray
-		else
-			#to do 
-		end
+    if subarray.length == 3
+      details << subarray
+    else
+      details << [subarray[0], "0 reviews", subarray[1]]
+    end
 	end
 end
 
